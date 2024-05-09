@@ -1,7 +1,6 @@
 """
 -----------------------------------------------------------------------------------------------
 Programmer: Juvreet Sidhu
-Course: ICS4U0-A
 Date: February 18, 2024
 Description: Rather than making a silly game, I decided to make a program that has 
 practical use. This program records user expenses and then summarzies them by category. 
